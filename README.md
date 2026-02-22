@@ -1,149 +1,134 @@
 # Arijit Das
 
-### AI Systems Engineer in Training  
-Building scalable AI infrastructure, production-grade ML systems, and intelligent backend architectures.
+**AI Systems Engineer • Building Production-Grade Intelligence**
+
+I architect and build end-to-end AI systems with a focus on scalability, reliability, and real-world impact. Currently specializing in generative AI pipelines, retrieval-augmented generation, and multimodal intelligence systems.
 
 ---
 
 ## About
 
-I am a 3rd year BCA undergraduate specializing in Data Analytics and Machine Learning, focused on becoming a **production-level AI Systems Architect**.
+I'm a systems-first engineer working at the intersection of machine learning, backend infrastructure, and intelligent applications. My approach centers on building robust, production-ready AI systems rather than prototype demos—combining deep learning frameworks with solid engineering fundamentals.
 
-I do not approach AI as isolated models.  
-I think in terms of:
+Currently pursuing BCA with a specialization in Data Analytics while independently building AI infrastructure and working with modern LLM architectures. I believe in learning by building complex systems from the ground up.
 
-- Data pipelines
-- Backend integration
-- Model lifecycle management
-- Inference optimization
-- System scalability
-- Clean architecture design
-
-My engineering philosophy is simple:
-
-> Systems first.  
-> Architecture before abstraction.  
-> Production before hype.
+**Core Philosophy:** Clean architecture, scalable design, and measurable impact over hype.
 
 ---
 
 ## Technical Stack
 
-### AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![RAG Systems](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_Database-000000?style=for-the-badge)
+**AI & Machine Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 
-### Backend Engineering
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
+**Backend & Infrastructure**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+**Data & Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Programming
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
+**ML Engineering & Tools**  
+NumPy • Pandas • Matplotlib • Seaborn • Streamlit • Jupyter • Google Colab • Git
 
 ---
 
-## What I'm Currently Building
+## Currently Building
 
-- Backend-integrated AI applications (Flask / FastAPI)
-- Retrieval-Augmented Generation (RAG) pipelines
-- Structured SQL + backend systems
-- Strong DSA foundation in C++
-- Deep NumPy-level ML understanding
-- AI workflow automation systems
+**AI Pipeline Infrastructure**  
+Developing production-ready RAG systems with vector databases and optimized retrieval mechanisms. Focus on latency reduction and context quality for LLM applications.
 
-Focus: Moving from experimentation → production reliability.
+**Backend AI Integration**  
+Building scalable API layers for ML model deployment using FastAPI and Flask. Implementing proper error handling, logging, and monitoring for AI services.
 
----
-
-## AI & Systems Areas of Interest
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Infrastructure & Model Serving
-- Scalable Backend Systems
-- Vector Search Architecture
-- AI Agents & Automation
-- End-to-End ML Pipelines
-- Intelligent System Design
+**Foundations Deepening**  
+- Data structures and algorithms in C++ for performance-critical AI components
+- SQL query optimization for large-scale data pipelines
+- NumPy internals and vectorization techniques for efficient ML operations
 
 ---
 
-## Architecture Philosophy
+## AI Systems Focus Areas
 
-A strong AI engineer thinks in layers:
+**Generative AI Architecture**  
+Large language models, prompt engineering, fine-tuning strategies, RLHF pipelines
 
-1. Data Layer — validated, versioned, reproducible  
-2. Processing Layer — deterministic, modular  
-3. Model Layer — experimental but measurable  
-4. Inference Layer — optimized and observable  
-5. System Layer — scalable, resilient, maintainable  
+**Retrieval-Augmented Generation**  
+Vector databases, embedding models, hybrid search systems, context optimization
 
-Optimization without architecture creates fragility.  
-Architecture without clarity creates technical debt.
+**Multimodal Intelligence**  
+Vision-language models, cross-modal retrieval, unified embedding spaces
 
----
+**ML Infrastructure**  
+Model serving, batch inference optimization, monitoring and observability, A/B testing frameworks
 
-## GitHub Analytics
-
-### Overall Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Arijit-Das-dev&hide_border=true)
+**Agentic Systems**  
+Tool-using agents, reasoning chains, autonomous task decomposition
 
 ---
 
-## Contribution Graph
+## Architecture Principles
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=github-compact&hide_border=true)
+I design systems with these core tenets:
+
+- **Scalability First:** Every component should handle 10x growth without architectural rewrites
+- **Observability Built-In:** Metrics, logging, and tracing from day one, not retrofitted
+- **Failure Modes Considered:** Graceful degradation, circuit breakers, and fallback mechanisms
+- **Data Quality > Model Complexity:** Better training data beats marginally better architectures
+- **Abstractions That Last:** Clean interfaces that remain stable as implementations evolve
 
 ---
 
-## Platforms & Practice
+## GitHub Statistics
 
-- Kaggle — Dataset exploration & ML experimentation  
-- LeetCode — SQL problem solving  
-- HackerRank — SQL practice  
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Das-dev&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+## Contribution Activity
+
+[![Arijit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/Arijit-Das-dev)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arijit-das)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/arijitdas)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arijitdas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 ## Long-Term Vision
 
-To design and build:
+Building toward becoming a principal AI systems architect who designs and scales intelligent infrastructure for real-world impact. I'm focused on the intersection of deep learning research and production engineering—where theoretical advances meet operational reliability.
 
-- Production-grade AI systems  
-- Scalable LLM infrastructure  
-- Intelligent backend platforms  
-- AI systems that operate reliably under real-world constraints  
+The goal isn't just to use AI tools, but to build the systems that power the next generation of intelligent applications. That requires mastering everything from low-level optimization to high-level system design, from data pipelines to model serving, from research papers to production deployments.
 
-I am not aiming to be just a model builder.
-
-I am building the foundations to architect intelligent systems at scale.
+**Currently preparing for:** Production ML engineering roles, AI infrastructure positions, and opportunities to work on large-scale intelligence systems.
 
 ---
 
-### Engineering intelligence requires discipline.  
-I am building that discipline — one system at a time.
+<div align="center">
+  
+*"The best way to predict the future is to build it."*
+
+**Building in public. Learning systems thinking. Shipping production AI.**
+
+</div>
