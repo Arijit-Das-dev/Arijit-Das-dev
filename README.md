@@ -83,14 +83,23 @@ Exploring Generative AI, Agentic workflows, LangChain, and automation tools to p
 ---
 
 ## 📊 GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Arijit-Das-dev&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=radical" />
-
-<img src="https://streak-stats.demolab.com?user=Arijit-Das-dev&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=Arijit-Das-dev&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 ---
