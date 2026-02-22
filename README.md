@@ -92,7 +92,6 @@ Exploring Generative AI, Agentic workflows, LangChain, and automation tools to p
 <img src="https://streak-stats.demolab.com?user=Arijit-Das-dev&theme=radical&hide_border=true" />
 
 </div>
----
 
 ## 📊 My GitHub Contributions Summary
 
@@ -101,8 +100,6 @@ Exploring Generative AI, Agentic workflows, LangChain, and automation tools to p
 [![Arijit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/Arijit-Das-dev)
 
 </div>
-
----
 
 ## 🎯 Technical Expertise
 
