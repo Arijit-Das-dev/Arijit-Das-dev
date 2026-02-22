@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arijit Das!
+# 👋 Hi there, I'm Arijit !
 
 <div align="center">
   
