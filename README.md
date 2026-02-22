@@ -97,7 +97,9 @@ Exploring Generative AI, Agentic workflows, LangChain, and automation tools to p
 ## 📊 My GitHub Contributions Summary
 
 <div align="center">
+  
 [![Arijit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/Arijit-Das-dev)
+
 </div>
 
 ---
