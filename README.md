@@ -1,78 +1,149 @@
-<h1 align="center">Arijit Das</h1>
-<h3 align="center">Aspiring AI/ML Engineer • Generative AI • RAG Systems • LLM Applications • Multimodal AI</h3>
+# Arijit Das
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Engineer;Building+RAG+Systems;LLM+Applications+Developer;End-to-End+ML+Pipelines;Backend+AI+Integration&center=true&width=600&height=45">
-</p>
+### AI Systems Engineer in Training  
+Building scalable AI infrastructure, production-grade ML systems, and intelligent backend architectures.
 
 ---
 
-## 🧠 About Me
+## About
 
-🎓 3rd Year BCA Student (Data Analytics & Machine Learning)  
-🚀 Focused on Generative AI, RAG Systems & Intelligent Applications  
-🔍 Passionate about transforming complex data into actionable insights  
-⚙️ Building AI-powered productivity tools & automation systems  
-🌍 Preparing for real-world AI & data-driven problem solving  
+I am a 3rd year BCA undergraduate specializing in Data Analytics and Machine Learning, focused on becoming a **production-level AI Systems Architect**.
 
----
+I do not approach AI as isolated models.  
+I think in terms of:
 
-## 🚀 Core Expertise
+- Data pipelines
+- Backend integration
+- Model lifecycle management
+- Inference optimization
+- System scalability
+- Clean architecture design
 
-### 💻 Programming
-Python • R • C • C++
+My engineering philosophy is simple:
 
-### 🗄 Databases
-MySQL • PostgreSQL • MongoDB • Vector Databases
-
-### 🤖 AI / ML Stack
-NumPy • Pandas • Scikit-Learn • PyTorch • TensorFlow  
-LangChain • RAG Pipelines • LLM Applications • Multimodal AI
-
-### 🌐 Frameworks
-FastAPI • Flask • Streamlit
-
-### 📊 Data & Visualization
-Power BI • Excel • Matplotlib • Seaborn
-
-### 📈 Foundations
-Statistics • Data Analysis • Problem Solving
+> Systems first.  
+> Architecture before abstraction.  
+> Production before hype.
 
 ---
 
-## 🛠 Tools & Platforms
+## Technical Stack
 
-VSCode • PyCharm • Jupyter Notebook • Google Colab  
-GitHub • Cursor IDE  
-Kaggle • LeetCode (SQL) • HackerRank (SQL)
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Database-000000?style=for-the-badge)
+
+### Backend Engineering
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+
+### Programming
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter)
 
 ---
 
-## 🏗 What I'm Currently Building
+## What I'm Currently Building
 
-- 🔥 AI-driven backend systems
-- 🧠 Retrieval-Augmented Generation (RAG) workflows
-- 🤖 Agentic AI & Automation tools
-- 📊 End-to-End ML Pipelines
+- Backend-integrated AI applications (Flask / FastAPI)
+- Retrieval-Augmented Generation (RAG) pipelines
+- Structured SQL + backend systems
+- Strong DSA foundation in C++
+- Deep NumPy-level ML understanding
+- AI workflow automation systems
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+Focus: Moving from experimentation → production reliability.
 
 ---
 
-## 🌐 Connect With Me
+## AI & Systems Areas of Interest
 
-📧 Email: yourmail@example.com  
-💼 LinkedIn: your-link-here  
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Infrastructure & Model Serving
+- Scalable Backend Systems
+- Vector Search Architecture
+- AI Agents & Automation
+- End-to-End ML Pipelines
+- Intelligent System Design
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## Architecture Philosophy
+
+A strong AI engineer thinks in layers:
+
+1. Data Layer — validated, versioned, reproducible  
+2. Processing Layer — deterministic, modular  
+3. Model Layer — experimental but measurable  
+4. Inference Layer — optimized and observable  
+5. System Layer — scalable, resilient, maintainable  
+
+Optimization without architecture creates fragility.  
+Architecture without clarity creates technical debt.
+
+---
+
+## GitHub Analytics
+
+### Overall Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arijit-Das-dev&hide_border=true)
+
+---
+
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=github-compact&hide_border=true)
+
+---
+
+## Platforms & Practice
+
+- Kaggle — Dataset exploration & ML experimentation  
+- LeetCode — SQL problem solving  
+- HackerRank — SQL practice  
+
+---
+
+## Long-Term Vision
+
+To design and build:
+
+- Production-grade AI systems  
+- Scalable LLM infrastructure  
+- Intelligent backend platforms  
+- AI systems that operate reliably under real-world constraints  
+
+I am not aiming to be just a model builder.
+
+I am building the foundations to architect intelligent systems at scale.
+
+---
+
+### Engineering intelligence requires discipline.  
+I am building that discipline — one system at a time.
