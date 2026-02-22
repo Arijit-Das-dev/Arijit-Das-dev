@@ -82,17 +82,40 @@ Exploring Generative AI, Agentic workflows, LangChain, and automation tools to p
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Arijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
+<!-- Main Stats Card -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Das-dev&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9)
+<!-- Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Das-dev&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" />
+
+</div>
+
+<br>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arijit-Das-dev&theme=radical&no-frame=true&margin-w=15&row=1" />
+
+</div>
+
+---
 
 ---
 
