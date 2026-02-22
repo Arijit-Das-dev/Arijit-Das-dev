@@ -1,92 +1,146 @@
-### Hi there, I'm Arijit Das
+# 👋 Hi there, I'm Arijit Das!
+
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
+
+## When I code, I rely on
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-When I build, I rely on
+## 💫 About Me
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-111111?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb)
-![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+I'm passionate about building scalable and intelligent AI systems that solve real-world problems. Currently a 3rd-year BCA student specializing in Data Analytics with hands-on experience in machine learning, generative AI, and backend development.
+
+🔭 **Currently working on:** Production-ready RAG systems and AI-powered applications  
+🌱 **Currently learning:** Advanced DSA in C++, SQL optimization, and LLM fine-tuning  
+💡 **Focus areas:** Generative AI, Agentic AI, Multimodal Intelligence, Backend AI Integration  
+🎯 **Goal:** Become a Principal AI Systems Architect building production-grade intelligent infrastructure  
+⚡ **Philosophy:** Clean architecture, scalable design, and measurable impact over hype
 
 ---
 
-### About Me
+## 🚀 What I'm Building
 
-I am a 3rd year BCA student specializing in Data Analytics and Machine Learning.
+**🤖 AI Pipeline Infrastructure**  
+Developing production-ready RAG systems with vector databases, optimized retrieval mechanisms, and context-aware LLM applications.
 
-I focus on building **AI systems — not just models.**
+**⚙️ Backend AI Integration**  
+Building scalable API layers for ML model deployment using FastAPI and Flask with proper monitoring, logging, and error handling.
 
-- Backend-integrated AI applications  
-- Retrieval-Augmented Generation pipelines  
-- LLM-powered tools  
-- Scalable ML workflows  
-- Structured data-driven systems  
+**📊 Data Analytics Projects**  
+Creating end-to-end data pipelines, visualization dashboards, and actionable insights using Python, R, and Power BI.
 
-I approach engineering with a systems mindset:
-
-> Clean architecture  
-> Measurable experiments  
-> Production-first thinking  
-> Scalable backend design  
+**🧠 AI Experimentation**  
+Exploring Generative AI, Agentic workflows, LangChain, and automation tools to push the boundaries of what's possible.
 
 ---
 
-### What I'm Currently Working On
+## 📈 My GitHub Stats
 
-- Building AI-powered backend applications (Flask / FastAPI)  
-- Strengthening DSA in C++  
-- Deep understanding of NumPy internals  
-- SQL + backend integration  
-- Designing modular RAG architectures  
+<div align="center">
 
----
+![Arijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
 
-### My GitHub Contributions Summary
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&hide_border=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Das-dev&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Arijit-Das-dev&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&hide_border=true)
+</div>
 
 ---
 
-### Activity Graph
+## 📊 My GitHub Contributions Summary
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=github-compact&hide_border=true)
+<div align="center">
 
----
+[![Arijit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/Arijit-Das-dev)
 
-### Platforms I Practice On
-
-- Kaggle — ML experimentation  
-- LeetCode — SQL & problem solving  
-- HackerRank — SQL foundations  
+</div>
 
 ---
 
-### Long-Term Direction
+## 🎯 Technical Expertise
 
-I am preparing to architect:
+**Machine Learning & AI**
+- Deep Learning Frameworks: PyTorch, TensorFlow, Scikit-Learn
+- Generative AI: LangChain, RAG Systems, Vector Databases
+- ML Libraries: NumPy, Pandas, Matplotlib, Seaborn
 
-- Production-grade AI systems  
-- LLM infrastructure  
-- AI serving pipelines  
-- Intelligent backend platforms  
+**Backend Development**
+- Frameworks: FastAPI, Flask
+- Databases: PostgreSQL, MongoDB, MySQL
+- API Design & Deployment
 
-My goal is not to be a model trainer.
+**Data Analytics**
+- Tools: Power BI, Excel, Tableau
+- Languages: Python, R, SQL
+- Statistics & Visualization
 
-My goal is to design intelligent systems at scale.
+**Development Tools**
+- IDEs: VSCode, PyCharm, Jupyter Notebook, Google Colab, Cursor IDE
+- Version Control: Git, GitHub
+- Platforms: Kaggle, LeetCode, HackerRank
 
 ---
+
+## 🌟 Featured Projects
+
+Coming soon! Currently building production-grade AI applications and will showcase them here.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arijit-das)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/arijitdas)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arijitdas)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/arijitdas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"The best way to predict the future is to build it."*
+
+**Building in public • Learning systems thinking • Shipping production AI**
+
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arijitdas)
+
+---
+
+⭐️ From [Arijit-Das-dev](https://github.com/Arijit-Das-dev)
+
+</div>
