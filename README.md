@@ -3,7 +3,6 @@
 <div align="center">
   
 ![Profile views](https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20views&color=0e75b6&style=flat)
-
 </div>
 <div align="center">
   
