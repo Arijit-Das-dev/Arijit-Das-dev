@@ -19,8 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
 
-
-# 👨‍💻 About Me
+<h1 align ="center">
+👨‍💻 About Me
+</h1>
 > 🎓 I'm a **BCA Student** · Specializing in **Data Analytics**  
 > Building a strong foundation in **Statistics · SQL · Python · Power BI · Excel** and data-driven problem solving.
 > Transforming raw and complex data into **actionable insights** that support real-world decision-making.
