@@ -111,7 +111,7 @@ My own Handwritten notes on the core concepts of Data Analysis.
 ### 🛒 E-Commerce Sales Analysis - Python | MySQL | Jupyter Notebook
 End-to-end ETL pipeline analyzing e-commerce sales — cleaned & transformed with Pandas, loaded into MySQL, visualized with Matplotlib/Seaborn to uncover revenue & customer trends.
 
-<img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square"/>
 
 [![Repository](https://img.shields.io/badge/📂_Repository-238636?style=for-the-badge&logoColor=white)](https://github.com/Arijit-Das-dev/E-Commerce-Sales-Data-Analysis-SQL-PYTHON)
 
