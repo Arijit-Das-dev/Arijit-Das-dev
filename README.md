@@ -18,3 +18,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
+
+## 👨‍💻 About Me
+
+- 🎓 4th-year BCA student specializing in **Data Analytics**, building a strong foundation in SQL, statistics, Python and data driven analysis.
+- 📊 Passionate about transforming raw, complex data into **actionable insights** that support real-world decision-making.
+- 🤖 Hands-on experience experimenting with **GenAI, AI Agents, and Agentic AI systems** — exploring how automation and LLMs can enhance analytical workflows.
+- 🔍 Enjoy bridging the gap between **data, technology, and business impact**, with a long-term goal.
