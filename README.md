@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arijit Das</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">Emerging Data Analyst</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
