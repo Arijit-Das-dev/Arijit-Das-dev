@@ -36,7 +36,7 @@
 </p>
 
 ### ***Database***
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
@@ -48,7 +48,7 @@
 </p>
 
 ### ***Libraries***
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="48"/>
@@ -63,7 +63,7 @@
 </p>
 
 ### ***Cloud***
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
 
