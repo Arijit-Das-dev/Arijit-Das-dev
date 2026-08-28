@@ -30,12 +30,12 @@
 
 ## 🛠️ Technologies & Tools
 
-**Languages**
+***Languages***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,r,cpp,c" />
 </p>
 
-**Libraries**
+***Libraries***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
@@ -46,29 +46,29 @@
   <img src="https://img.shields.io/badge/-scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="48"/>
 </p>
 
-**Tools**
+***Tools***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Cloud**
+***Cloud***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
 
-**Database**
+***Database***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-**Platforms & Practice**
+***Platforms & Practice***
 <p align="left">
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
 </p>
 
-**Excel, Power BI, Tableau**
+***Excel, Power BI, Tableau***
 <p align="left">
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/>
