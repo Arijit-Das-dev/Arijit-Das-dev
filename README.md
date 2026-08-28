@@ -21,7 +21,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 4th-year BCA student specializing in **Data Analytics**, building a strong foundation in SQL, statistics, Python and data driven analysis.
-- 📊 Passionate about transforming raw, complex data into **actionable insights** that support real-world decision-making.
-- 🤖 Hands-on experience experimenting with **GenAI, AI Agents, and Agentic AI systems** — exploring how automation and LLMs can enhance analytical workflows.
-- 🔍 Enjoy bridging the gap between **data, technology, and business impact**, with a long-term goal.
+> 🎓 **BCA (Honours) Student** · Specializing in **Data Analytics**  
+> Building a strong foundation in **Statistics · SQL · Python** and data-driven problem solving.
+
+---
+
+📊 **Data & Insights**  
+Transforming raw and complex data into **actionable insights** that support real-world decision-making.
+
+🤖 **AI & Automation**  
+Hands-on with **Generative AI · AI Agents · Agentic Systems**, exploring how intelligent automation and LLMs can enhance analytical workflows.
+
+🔍 **Beyond Data**  
+Interested in bridging **Data · Technology · Business Impact**, with a long-term goal of building intelligent, data-driven solutions.
