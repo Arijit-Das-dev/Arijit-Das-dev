@@ -76,31 +76,17 @@
 
 ## 📝 My Notes
 
-Handwritten notes on core data analyst concepts — click any icon to open the PDF.
+Handwritten notes on core data analyst concepts, organized topic-wise.
 
-<p align="left">
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Python-(Arijit%20Das)-compressed.pdf">
-    <img src="https://skillicons.dev/icons?i=py" title="Python Notes"/>
-  </a>
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/SQL-Arijit%20Das-compressed.pdf">
-    <img src="https://skillicons.dev/icons?i=mysql" title="SQL Notes"/>
-  </a>
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf">
-    <img src="https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" title="Numpy Notes"/>
-  </a>
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf">
-    <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" title="Pandas Notes"/>
-  </a>
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Matplotlib%20(Arijit%20Das)-compressed.pdf">
-    <img src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="48" title="Matplotlib Notes"/>
-  </a>
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Seaborn(Arijit%20Das)-compressed.pdf">
-    <img src="https://img.shields.io/badge/-seaborn-4C72B0?style=flat-square" height="48" title="Seaborn Notes"/>
-  </a>
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/MongoDB(Arijit%20Das)-compressed.pdf">
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB Notes"/>
-  </a>
-  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/EDA-Arijit%20Das%20-compressed.pdf">
-    <img src="https://img.shields.io/badge/-EDA-FF6F00?style=flat-square" height="48" title="EDA Notes"/>
-  </a>
-</p>
+| 📂 Topic | 📄 Notes | 🔗 Link |
+|---|---|---|
+| Python | Fundamentals & syntax notes | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Python-(Arijit%20Das)-compressed.pdf) |
+| SQL | Query writing & joins | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/SQL-Arijit%20Das-compressed.pdf) |
+| NumPy | Arrays & numerical ops | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf) |
+| Pandas | Data manipulation | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf) |
+| Matplotlib | Data visualization | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Matplotlib%20(Arijit%20Das)-compressed.pdf) |
+| Seaborn | Statistical plotting | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Seaborn(Arijit%20Das)-compressed.pdf) |
+| MongoDB | NoSQL database basics | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/MongoDB(Arijit%20Das)-compressed.pdf) |
+| EDA | Exploratory Data Analysis | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/EDA-Arijit%20Das%20-compressed.pdf) |
+
+> 📁 Full repo: [Analyst-Notes](https://github.com/Arijit-Das-dev/Analyst-Notes)
