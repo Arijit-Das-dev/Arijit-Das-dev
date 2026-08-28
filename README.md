@@ -37,10 +37,11 @@
 
 #### ***Libraries***
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" height="40"/>
 </p>
 
 <p align="left">
