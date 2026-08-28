@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 > 🎓 I'm a **BCA Student** · Specializing in **Data Analytics**  
 > Building a strong foundation in **Statistics · SQL · Python · Power BI · Excel** and data-driven problem solving.
@@ -28,7 +28,7 @@
 > Interested in bridging **Data · Technology · Business Impact**, with a long-term goal of building useful data-driven solutions.
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 ### ***Languages***
 <p align="left">
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
 </p>
 
-## 📝 My Notes
+# 📝 My Notes
 
 My own Handwritten notes on the core concepts of Data Analysis.
 
