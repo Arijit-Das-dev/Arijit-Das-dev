@@ -35,12 +35,12 @@
   <img src="https://skillicons.dev/icons?i=py,r,cpp,c" />
 </p>
 
-### ***Database***
+### ***Databases***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### ***Excel, Power BI & Tableau***
+### ***Core Analysis***
 <p align="left">
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/>
@@ -62,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### ***Cloud***
+### ***Clouds***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
