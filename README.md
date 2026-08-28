@@ -31,7 +31,7 @@
 ## 🛠️ Technologies & Tools
 
 ***Languages***
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,cpp,c" />
 </p>
 
