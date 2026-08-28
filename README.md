@@ -28,9 +28,9 @@
 > Hands-on experience with **Generative AI · AI Agents · Agentic AI workflows**, exploring how intelligent automation and LLMs can enhance analytical workflows.
 > Interested in bridging **Data · Technology · Business Impact**, with a long-term goal of building useful data-driven solutions.
 
-
-# 🛠️ Technologies & Tools
-
+<h1 align = "center">
+🛠️ Technologies & Tools
+</h1>
 ### ***Languages***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,r,cpp,c" />
@@ -75,9 +75,9 @@
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
 </p>
 
-
-# 📝 My Notes
-
+<h1 align = "center">
+📝 My Notes
+</h1>
 My own Handwritten notes on the core concepts of Data Analysis.
 
 | 📂 Topic | 📄 Notes | 🔗 Link |
