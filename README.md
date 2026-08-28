@@ -96,7 +96,7 @@ My own Handwritten notes on the core concepts of Data Analysis.
 > 📁 Full repo: [Analyst-Notes](https://github.com/Arijit-Das-dev/Analyst-Notes)
 ---
 
-<h1 align="center">📊 Data Analysis Projects</h1>
+<h1 align="center">📊Projects</h1>
 
 ### 🛒 E-Commerce Sales Data Analysis
 End-to-end ETL pipeline analyzing e-commerce sales data — cleaned & transformed with Python (Pandas), loaded into MySQL, and visualized with Matplotlib/Seaborn to uncover revenue trends, top customers, and category-wise performance.
