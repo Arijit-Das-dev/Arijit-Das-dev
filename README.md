@@ -108,7 +108,7 @@ My own Handwritten notes on the core concepts of Data Analysis.
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Sales Analysis
+### 🛒 E-Commerce Sales Analysis - Python | MySQL | Jupyter Notebook
 End-to-end ETL pipeline analyzing e-commerce sales — cleaned & transformed with Pandas, loaded into MySQL, visualized with Matplotlib/Seaborn to uncover revenue & customer trends.
 
 <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -118,7 +118,7 @@ End-to-end ETL pipeline analyzing e-commerce sales — cleaned & transformed wit
 </td>
 <td width="50%" valign="top">
 
-### 🪔 Diwali Sales Analysis
+### 🪔 Diwali Sales Analysis - Python | MySQL | Jupyter Notebook
 Analyzed festive sales data to uncover customer demographics, regional trends & product demand — delivered as a stakeholder-ready PDF report with full EDA & visualizations.
 
 <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square"/>
