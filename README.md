@@ -73,3 +73,34 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
 </p>
+
+## 📝 My Notes
+
+Handwritten notes on core data analyst concepts — click any icon to open the PDF.
+
+<p align="left">
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Python-(Arijit%20Das)-compressed.pdf">
+    <img src="https://skillicons.dev/icons?i=py" title="Python Notes"/>
+  </a>
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/SQL-Arijit%20Das-compressed.pdf">
+    <img src="https://skillicons.dev/icons?i=mysql" title="SQL Notes"/>
+  </a>
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf">
+    <img src="https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" title="Numpy Notes"/>
+  </a>
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf">
+    <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" title="Pandas Notes"/>
+  </a>
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Matplotlib%20(Arijit%20Das)-compressed.pdf">
+    <img src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="48" title="Matplotlib Notes"/>
+  </a>
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Seaborn(Arijit%20Das)-compressed.pdf">
+    <img src="https://img.shields.io/badge/-seaborn-4C72B0?style=flat-square" height="48" title="Seaborn Notes"/>
+  </a>
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/MongoDB(Arijit%20Das)-compressed.pdf">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB Notes"/>
+  </a>
+  <a href="https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/EDA-Arijit%20Das%20-compressed.pdf">
+    <img src="https://img.shields.io/badge/-EDA-FF6F00?style=flat-square" height="48" title="EDA Notes"/>
+  </a>
+</p>
