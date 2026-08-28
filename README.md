@@ -21,25 +21,18 @@
 
 ## 👨‍💻 About Me
 
-> 🎓 **BCA Student** · Specializing in **Data Analytics**  
+> 🎓 I'm a **BCA Student** · Specializing in **Data Analytics**  
 > Building a strong foundation in **Statistics · SQL · Python · Power BI · Excel** and data-driven problem solving.
-
+> 📊 Transforming raw and complex data into **actionable insights** that support real-world decision-making.
+> 🤖 Hands-on experience with **Generative AI · AI Agents · Agentic AI workflows**, exploring how intelligent automation and LLMs can enhance analytical workflows.
+> 🔍 Interested in bridging **Data · Technology · Business Impact**, with a long-term goal of building useful data-driven solutions.
 ---
 
-📊 **Data & Insights**  
-Transforming raw and complex data into **actionable insights** that support real-world decision-making.
-
-🤖 **AI & Automation**  
-Hands-on experience with **Generative AI · AI Agents · Agentic AI workflows**, exploring how intelligent automation and LLMs can enhance analytical workflows.
-
-🔍 **Beyond Data**  
-Interested in bridging **Data · Technology · Business Impact**, with a long-term goal of building useful data-driven solutions.
-
----
 ## 🛠️ Technologies & Tools
 
+#### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,c,mysql,postgres,mongodb,git,github,vscode,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,c" />
 </p>
 
 <p align="left">
