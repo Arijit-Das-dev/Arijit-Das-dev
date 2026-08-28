@@ -18,16 +18,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
----
+
 
 # 👨‍💻 About Me
-
 > 🎓 I'm a **BCA Student** · Specializing in **Data Analytics**  
 > Building a strong foundation in **Statistics · SQL · Python · Power BI · Excel** and data-driven problem solving.
 > Transforming raw and complex data into **actionable insights** that support real-world decision-making.
 > Hands-on experience with **Generative AI · AI Agents · Agentic AI workflows**, exploring how intelligent automation and LLMs can enhance analytical workflows.
 > Interested in bridging **Data · Technology · Business Impact**, with a long-term goal of building useful data-driven solutions.
----
+
 
 # 🛠️ Technologies & Tools
 
@@ -74,7 +73,7 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
 </p>
----
+
 
 # 📝 My Notes
 
