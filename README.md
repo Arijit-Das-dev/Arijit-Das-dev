@@ -28,29 +28,27 @@
 - 🔗 Interested in bridging Data · Technology · Business Impact, with a long-term goal of building useful data-driven solutions
 
 
-<h1 align = "center">
-🛠️ Technologies & Tools
-</h1>
+<h1 align="center">🛠️ Technologies & Tools</h1>
 
-### ***Languages***
-<p align="left">
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,cpp,c" />
 </p>
 
-### ***Databases***
-<p align="left">
+<h3 align="center">Databases</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### ***Core Analysis***
-<p align="left">
+<h3 align="center">Core Analysis</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/>
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="48"/>
 </p>
 
-### ***Libraries***
-<p align="left">
+<h3 align="center">Libraries</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="48"/>
@@ -59,22 +57,23 @@
   <img src="https://img.shields.io/badge/-scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="48"/>
 </p>
 
-### ***Tools***
-<p align="left">
+<h3 align="center">Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### ***Clouds***
-<p align="left">
+<h3 align="center">Clouds</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
 
-### ***Platforms & Practice***
-<p align="left">
+<h3 align="center">Platforms & Practice</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
 </p>
+
 
 <h1 align = "center">
 📝 My Notes
