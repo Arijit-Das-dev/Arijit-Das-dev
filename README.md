@@ -37,7 +37,10 @@
 
 #### ***Libraries***
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 </p>
 
 <p align="left">
