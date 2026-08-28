@@ -30,9 +30,14 @@
 
 ## 🛠️ Technologies & Tools
 
-#### Languages
+#### ***Languages***
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,cpp,c" />
+</p>
+
+#### ***Libraries***
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly" />
 </p>
 
 <p align="left">
