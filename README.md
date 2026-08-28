@@ -113,3 +113,25 @@ Analyzed festive sales data to uncover customer demographics, regional buying tr
 **Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook`
 
 🔗 [View Repository](https://github.com/Arijit-Das-dev/Diwali-Sales-Analysis-Project)
+
+---
+<h1 align="center">📈 GitHub Analytics Dashboard</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Das-dev&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Das-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Das-dev&theme=tokyo-night&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arijit-Das-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<h3 align="center">🐍 Contribution Graph — Animated</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arijit-Das-dev/Arijit-Das-dev/output/github-contribution-grid-snake.svg" />
+</p>
