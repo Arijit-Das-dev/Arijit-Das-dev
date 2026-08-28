@@ -95,3 +95,21 @@ My own Handwritten notes on the core concepts of Data Analysis.
 
 > 📁 Full repo: [Analyst-Notes](https://github.com/Arijit-Das-dev/Analyst-Notes)
 ---
+
+<h1 align="center">📊 Data Analysis Projects</h1>
+
+### 🛒 E-Commerce Sales Data Analysis
+End-to-end ETL pipeline analyzing e-commerce sales data — cleaned & transformed with Python (Pandas), loaded into MySQL, and visualized with Matplotlib/Seaborn to uncover revenue trends, top customers, and category-wise performance.
+
+**Tech:** `Python` `Pandas` `NumPy` `MySQL` `Matplotlib` `Seaborn`
+
+🔗 [View Repository](https://github.com/Arijit-Das-dev/E-Commerce-Sales-Data-Analysis-SQL-PYTHON)
+
+---
+
+### 🪔 Diwali Sales Analysis
+Analyzed festive sales data to uncover customer demographics, regional buying trends, and product demand patterns — delivered as a stakeholder-ready PDF report with EDA, visualizations, and business insights.
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook`
+
+🔗 [View Repository](https://github.com/Arijit-Das-dev/Diwali-Sales-Analysis-Project)
