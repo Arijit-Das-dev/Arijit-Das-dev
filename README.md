@@ -28,7 +28,7 @@
 - 🔗 Interested in bridging Data · Technology · Business Impact, with a long-term goal of building useful data-driven solutions
 
 
-<h1 align="center">📈 GitHub Analytics Dashboard</h1>
+<h1 align="center">📈 Take a look</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arijit-Das-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Das-dev&theme=tokyonight&hide_border=true" width="48%"/>
@@ -102,20 +102,29 @@ My own Handwritten notes on the core concepts of Data Analysis.
 > 📁 Full repo: [Analyst-Notes](https://github.com/Arijit-Das-dev/Analyst-Notes)
 ---
 
-<h1 align="center">📊Projects</h1>
+<h1 align="center">🔥 Featured Projects</h1>
 
-### 🛒 E-Commerce Sales Data Analysis - Python | MySQL | Jupyter Notebook
-End-to-end ETL (Extract Transform Load) pipeline analyzing e-commerce sales data — cleaned & transformed with Python (Pandas), loaded into MySQL, and visualized with Matplotlib/Seaborn to uncover revenue trends, top customers, and category-wise performance.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** `Python` `Pandas` `NumPy` `MySQL` `Matplotlib` `Seaborn`
+### 🛒 E-Commerce Sales Analysis
+End-to-end ETL pipeline analyzing e-commerce sales — cleaned & transformed with Pandas, loaded into MySQL, visualized with Matplotlib/Seaborn to uncover revenue & customer trends.
 
-🔗 [View Repository](https://github.com/Arijit-Das-dev/E-Commerce-Sales-Data-Analysis-SQL-PYTHON)
+<img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
----
+[![Repository](https://img.shields.io/badge/📂_Repository-238636?style=for-the-badge&logoColor=white)](https://github.com/Arijit-Das-dev/E-Commerce-Sales-Data-Analysis-SQL-PYTHON)
 
-### 🪔 Diwali Sales Analysis - Python | Jupyter Notebook
-Analyzed festive sales data to uncover customer demographics, regional buying trends, and product demand patterns — delivered as a stakeholder-ready PDF report with EDA, visualizations, and business insights.
+</td>
+<td width="50%" valign="top">
 
-**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook`
+### 🪔 Diwali Sales Analysis
+Analyzed festive sales data to uncover customer demographics, regional trends & product demand — delivered as a stakeholder-ready PDF report with full EDA & visualizations.
 
-🔗 [View Repository](https://github.com/Arijit-Das-dev/Diwali-Sales-Analysis-Project)
+<img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square"/>
+
+[![Repository](https://img.shields.io/badge/📂_Repository-238636?style=for-the-badge&logoColor=white)](https://github.com/Arijit-Das-dev/Diwali-Sales-Analysis-Project)
+
+</td>
+</tr>
+</table>
