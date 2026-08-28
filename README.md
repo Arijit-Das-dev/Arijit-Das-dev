@@ -22,7 +22,7 @@
 <h1 align ="center">
 👨‍💻 About Me
 </h1>
-🎓 I'm a BCA Student · Specializing in Data Analytics  
+I'm a BCA Student · Specializing in Data Analytics  
 Building a strong foundation in Statistics · SQL · Python · Power BI · Excel and data-driven problem solving.
 Transforming raw and complex data into actionable insights that support real-world decision-making.
 Hands-on experience with Generative AI · AI Agents · Agentic AI workflows, exploring how intelligent automation and LLMs can enhance analytical workflows.
