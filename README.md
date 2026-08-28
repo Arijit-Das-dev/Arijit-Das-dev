@@ -30,24 +30,47 @@
 
 ## 🛠️ Technologies & Tools
 
-#### ***Languages***
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=py,r,cpp,c" />
 </p>
 
-#### ***Libraries***
+**Libraries**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-seaborn-4C72B0?style=flat-square" height="48"/>
+  <img src="https://img.shields.io/badge/-plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="48"/>
 </p>
 
+**Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Power%20BI-000?style=flat-square&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-Tableau-000?style=flat-square&logo=tableau" />
-  <img src="https://img.shields.io/badge/-Excel-000?style=flat-square&logo=microsoftexcel" />
-  <img src="https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter" />
-  <img src="https://img.shields.io/badge/-Colab-000?style=flat-square&logo=googlecolab" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws" />
+</p>
+
+**Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+**Platforms & Practice**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
+</p>
+
+**Excel, Power BI, Tableau**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="48"/>
 </p>
