@@ -76,17 +76,17 @@
 
 ## 📝 My Notes
 
-Handwritten notes on core data analyst concepts, organized topic-wise.
+My own Handwritten notes on the core concepts of Data Analysis.
 
 | 📂 Topic | 📄 Notes | 🔗 Link |
 |---|---|---|
-| Python | Fundamentals & syntax notes | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Python-(Arijit%20Das)-compressed.pdf) |
-| SQL | Query writing & joins | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/SQL-Arijit%20Das-compressed.pdf) |
-| NumPy | Arrays & numerical ops | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf) |
-| Pandas | Data manipulation | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf) |
-| Matplotlib | Data visualization | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Matplotlib%20(Arijit%20Das)-compressed.pdf) |
-| Seaborn | Statistical plotting | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Seaborn(Arijit%20Das)-compressed.pdf) |
-| MongoDB | NoSQL database basics | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/MongoDB(Arijit%20Das)-compressed.pdf) |
+| Python | Fundamentals of Python | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Python-(Arijit%20Das)-compressed.pdf) |
+| MongoDB | Fundamentals of MongoDB | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/MongoDB(Arijit%20Das)-compressed.pdf) 
+| MySQL | Fundamentals of MySQL | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/SQL-Arijit%20Das-compressed.pdf) |
+| NumPy | Fundamentals of Numpy | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf) |
+| Pandas | Fundamentals of Pandas | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf) |
+| Matplotlib | Fundamentals of Matplotlib | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Matplotlib%20(Arijit%20Das)-compressed.pdf) |
+| Seaborn | Fundamentals of Seaborn | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Seaborn(Arijit%20Das)-compressed.pdf) |
 | EDA | Exploratory Data Analysis | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/EDA-Arijit%20Das%20-compressed.pdf) |
 
 > 📁 Full repo: [Analyst-Notes](https://github.com/Arijit-Das-dev/Analyst-Notes)
