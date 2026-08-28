@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arijit</h1>
+<h1 align="center">Hi 👋, I'm Arijit Das</h1>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aspiring%20Data%20Analyst-2E9EF7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
