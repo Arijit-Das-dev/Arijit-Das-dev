@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
+---
 
 # 👨‍💻 About Me
 
@@ -73,6 +74,7 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" height="48"/>
 </p>
+---
 
 # 📝 My Notes
 
@@ -90,3 +92,4 @@ My own Handwritten notes on the core concepts of Data Analysis.
 | EDA | Exploratory Data Analysis | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/EDA-Arijit%20Das%20-compressed.pdf) |
 
 > 📁 Full repo: [Analyst-Notes](https://github.com/Arijit-Das-dev/Analyst-Notes)
+---
