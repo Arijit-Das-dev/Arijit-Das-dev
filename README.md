@@ -98,7 +98,7 @@ My Handwritten Notes: Core Data Analysis Concepts
 | Seaborn | Fundamentals of Seaborn | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Seaborn(Arijit%20Das)-compressed.pdf) |
 | EDA | Exploratory Data Analysis | [Open PDF](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/EDA-Arijit%20Das%20-compressed.pdf) |
 
-> 📁 Full repo: [Analyst-Notes](https://github.com/Arijit-Das-dev/Analyst-Notes)
+> 📁 Full repo: [DataAnalysis-Notebooks](https://github.com/Arijit-Das-dev/Analyst-Notes)
 ---
 
 <h1 align="center">🔥 Featured Projects</h1>
