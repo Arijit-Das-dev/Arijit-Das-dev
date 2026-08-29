@@ -85,7 +85,7 @@
 <h1 align = "center">
 📝 My Notes
 </h1>
-My own Handwritten notes on the core concepts of Data Analysis.
+My Handwritten Notes: Core Data Analysis Concepts
 
 | 📂 Topic | 📄 Notes | 🔗 Link |
 |---|---|---|
