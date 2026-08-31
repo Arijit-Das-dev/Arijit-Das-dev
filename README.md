@@ -30,13 +30,19 @@
 - 🔗 Interested in bridging Data · Technology · Business Impact, with a long-term goal of building useful data-driven solutions.
 
 
-<h1 align="center">📈 Take a look</h1>
+<h1 align="center">
+    <i>
+      📈 Take a look
+    </i>
+</h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Das-dev&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <h1 align = "center">
-🛠️ Technologies & Tools
+  <i>
+    🛠️ Technologies & Tools
+  </i>
 </h1>
 
 ### ***Languages***
@@ -85,7 +91,9 @@
 
 
 <h1 align = "center">
-📝 My Notes
+  <i>
+    📝 My Notes
+  </i>
 </h1>
 My Handwritten Notes: Core Data Analysis Concepts
 
@@ -103,7 +111,11 @@ My Handwritten Notes: Core Data Analysis Concepts
 > 📁 Full repo: [DataAnalysis-Notebooks](https://github.com/Arijit-Das-dev/Analyst-Notes)
 ---
 
-<h1 align="center">🔥 Featured Projects</h1>
+<h1 align="center">
+    <i>
+      🔥 Featured Projects
+    </i>
+</h1>
 
 <table width="100%">
 <tr>
@@ -131,7 +143,11 @@ Analyzed festive sales data to uncover customer demographics, regional trends & 
 </table>
 
 
-<h1 align="center">🤝 Let's Connect</h1>
+<h1 align="center">
+  <i>
+    🤝 Let's Connect
+  </i>
+</h1>
 
 <p align="center">
 I'm always open to discussing data, collaborating on projects, or just talking shop about analytics & AI. Reach out!
