@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center"><i>👨‍💻 About Me</i></h1>
+<h1 align="center"><i>"👨‍💻 About Me"</i></h1>
 
 - 🎓 I'm a 4th year Bachelor's in Computer Application (H) student. Aspiring Data Analyst alongside building a strong foundation in Data Science & Machine Learning.
 - 📊 Building a strong foundation in Statistics · SQL · Python · Power BI · Excel and data-driven problem solving.
@@ -32,7 +32,7 @@
 
 <h1 align="center">
     <i>
-      📈 Take a look
+      "📈 Take a look"
     </i>
 </h1>
 <p align="center">
@@ -41,7 +41,7 @@
 
 <h1 align = "center">
   <i>
-    🛠️ Technologies & Tools
+    "🛠️ Technologies & Tools"
   </i>
 </h1>
 
@@ -92,7 +92,7 @@
 
 <h1 align = "center">
   <i>
-    📝 My Notes
+    "📝My learning logs"
   </i>
 </h1>
 My Handwritten Notes: Core Data Analysis Concepts
@@ -113,7 +113,7 @@ My Handwritten Notes: Core Data Analysis Concepts
 
 <h1 align="center">
     <i>
-      🔥 Featured Projects
+      "🔥 Featured Projects"
     </i>
 </h1>
 
@@ -145,7 +145,7 @@ Analyzed festive sales data to uncover customer demographics, regional trends & 
 
 <h1 align="center">
   <i>
-    🤝 Let's Connect
+    "🤝 Let's Connect"
   </i>
 </h1>
 
