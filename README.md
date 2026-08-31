@@ -119,11 +119,11 @@ My Handwritten Notes: Core Data Analysis Concepts
 </h1>
 My own Handwritten CheatSheets: Core Data Analysis Concepts
 
-| 📂 Topic |🔗 Link |
+| 📂 Topic | 🔗 Link |
 |---|---|
-| Python | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Python-(Arijit%20Das)-compressed.pdf) |
-| NumPy | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf) |
-| Pandas | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf) |
+| Python | [Open Repo](https://github.com/Arijit-Das-dev/Master-Python) |
+| NumPy | [Open Folder](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/01-NumPy) |
+| Pandas | [Open Folder](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/02-Pandas) |
 
 > 📁 Full repo: [DataAnalysis-CheatSheet](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet)
 
