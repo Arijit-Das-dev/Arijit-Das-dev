@@ -125,7 +125,7 @@ My own Handwritten CheatSheets: Core Data Analysis Concepts
 | NumPy | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf) |
 | Pandas | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf) |
 
-> 📁 Full repo: [DataAnalysis-Notebooks](https://github.com/Arijit-Das-dev/Analyst-Notes)
+> 📁 Full repo: [DataAnalysis-CheatSheet](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet)
 
 
 
