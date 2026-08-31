@@ -121,8 +121,8 @@ My own Handwritten CheatSheets: Core Data Analysis Concepts
 | 📂 Topic | 🔗 Link |
 |---|---|
 | Python | [Open Repo](https://github.com/Arijit-Das-dev/Master-Python) |
-| NumPy | [Open Folder](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/01-NumPy) |
-| Pandas | [Open Folder](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/02-Pandas) |
+| NumPy | [Open Repo](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/01-NumPy) |
+| Pandas | [Open Repo](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/02-Pandas) |
 
 > 📁 Full repo: [DataAnalysis-CheatSheet](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet)
 
