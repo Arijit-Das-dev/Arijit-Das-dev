@@ -117,7 +117,7 @@ My Handwritten Notes: Core Data Analysis Concepts
     "📝My Handwritten CheatSheets"
   </i>
 </h1>
-My Handwritten Notes: Core Data Analysis Concepts
+My own Handwritten CheatSheets: Core Data Analysis Concepts
 
 | 📂 Topic |🔗 Link |
 |---|---|
