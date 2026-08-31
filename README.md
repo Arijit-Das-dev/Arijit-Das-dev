@@ -111,6 +111,24 @@ My Handwritten Notes: Core Data Analysis Concepts
 > 📁 Full repo: [DataAnalysis-Notebooks](https://github.com/Arijit-Das-dev/Analyst-Notes)
 ---
 
+
+<h1 align = "center">
+  <i>
+    "📝My Handwritten CheatSheets"
+  </i>
+</h1>
+My Handwritten Notes: Core Data Analysis Concepts
+
+| 📂 Topic | 📄 Notes | 🔗 Link |
+|---|---|---|
+| Python | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Python-(Arijit%20Das)-compressed.pdf) |
+| NumPy | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Numpy(Arijit%20Das)-compressed.pdf) |
+| Pandas | [Open Sheet](https://github.com/Arijit-Das-dev/Analyst-Notes/blob/main/Pandas(Arijit%20Das)-compressed.pdf) |
+
+> 📁 Full repo: [DataAnalysis-Notebooks](https://github.com/Arijit-Das-dev/Analyst-Notes)
+
+
+
 <h1 align="center">
     <i>
       "🔥 Featured Projects"
