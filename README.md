@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=Arijit-Das-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center"><i>"👨‍💻 About Me"</i></h1>
+<h1 align="center"><i>"👨‍💻 About"</i></h1>
 
 - I'm a 4th-year BCA (Honours) student specializing in **Data Analytics** at Techno India University  
 - Aspiring **Data Analyst** passionate about turning raw data into actionable insights  
