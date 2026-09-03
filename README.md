@@ -125,7 +125,7 @@ My own Handwritten CheatSheets: Core Data Analysis Concepts
 | Pandas | [Open Repo](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/02-Pandas) |
 | Matplotlib | [Open Repo](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/03-Matplotlib)|
 | Seaborn | [Open Repo](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet/tree/main/03-Seaborn)|
-
+| MySQL | [Open Repo](https://github.com/Arijit-Das-dev/Master-MySQL)|
 > 📁 Full repo: [DataAnalysis-CheatSheet](https://github.com/Arijit-Das-dev/DataAnalysis-CheatSheet)
 
 
