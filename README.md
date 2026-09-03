@@ -23,7 +23,7 @@
 
 <h1 align="center"><i>"👨‍💻 About Me"</i></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=false&vCenter=true&multiline=true&width=800&height=180&lines=🎓+4th-year+BCA+(Honours)+Student+specializing+in+Data+Analytics;📊+Aspiring+Data+Analyst+%7C+Turning+raw+data+into+actionable+insights;🔍+Skilled+in+SQL%2C+Python%2C+Excel%2C+Power+BI+%26+Tableau;🧹+Experienced+in+EDA%2C+ETL+%26+Data+Modeling;🤖+Exploring+AI+%2B+Data+Analytics+for+smarter+automated+insights;🔄+Hands-on+with+ETL+Pipelines+%26+Data+Migration+(SQL%2FNoSQL);📈+Driven+by+Data-Informed+Decision-Making;🚀+Actively+seeking+Internship+Opportunities+in+Data+Analytics" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=false&vCenter=true&multiline=true&width=800&height=180&lines=🎓+4th-year+BCA+(Honours)+Student+specializing+in+Data+Analytics;📊+Aspiring+Data+Analyst+%7C+Turning+raw+data+into+actionable+insights;🔍+Skilled+in+SQL%2C+Python%2C+Excel%2C+Power+BI+%26+Tableau;🧹+Experienced+in+EDA%2C+ETL+%26+Data+Modeling;🤖+Exploring+AI+%2B+Data+Analytics+for+smarter+automated+insights;🔄+Hands-on+with+ETL+Pipelines+%26+Data+Migration+(SQL%2FNoSQL);📈+Driven+by+Data-Informed+Decision-Making;🚀+Actively+seeking+Internship+Opportunities+in+Data+Analytics" alt="Typing SVG" />
 
 
 <h1 align="center">
