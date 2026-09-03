@@ -23,11 +23,14 @@
 
 <h1 align="center"><i>"👨‍💻 About Me"</i></h1>
 
-- 🎓 I'm a 4th year Bachelor's in Computer Application (H) student. Aspiring Data Analyst alongside building a strong foundation in Data Science & Machine Learning.
-- 📊 Building a strong foundation in Statistics · SQL · Python · Power BI · Excel and data-driven problem solving.
-- 💡 Transforming raw and complex data into actionable insights that support real-world decision-making.
-- 🤖 Hands-on experience with Generative AI · AI Agents · Agentic AI workflows, exploring how intelligent automation and LLMs can enhance analytical workflows.
-- 🔗 Interested in bridging Data · Technology · Business Impact, with a long-term goal of building useful data-driven solutions.
+- 🎓 4th-year BCA (Honours) student specializing in **Data Analytics** at Techno India University  
+- 📊 Aspiring **Data Analyst** passionate about turning raw data into actionable insights  
+- 🔍 Skilled in **SQL, Python, Excel, Power BI, and Tableau** for end-to-end data analysis  
+- 🧹 Experienced in **EDA, ETL, and Data Modeling** to clean, transform, and structure data for analysis  
+- 🤖 Exploring the intersection of **AI and Data Analytics** to build smarter, automated insights  
+- 🔄 Hands-on with **ETL pipelines and Data Migration** across SQL and NoSQL databases  
+- 📈 Driven by **data-informed decision-making** and a strong analytical mindset  
+- 🚀 Actively seeking **Internship Opportunities** in Data Analytics / Data Science  
 
 
 <h1 align="center">
