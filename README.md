@@ -23,7 +23,7 @@
 
 <h1 align="left"><i> About 👇 </i></h1>
 
-- I'm a 4th-year BCA (Honours) student specializing in **Data Analytics** at Techno India University  
+- I'm a 4th-year BCA (Honours) student specializing in **Data Analytics**
 - Aspiring **Data Analyst** passionate about turning raw data into actionable insights  
 -  Skilled in **SQL, Python, Excel, Power BI, and Tableau** for end-to-end data analysis  
 - Experienced in **EDA, ETL, and Data Modeling** to clean, transform, and structure data for analysis  
